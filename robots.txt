@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://valentinainfantil.com/sitemap.xml
