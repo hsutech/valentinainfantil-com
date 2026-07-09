@@ -7,7 +7,7 @@
   --dna-radius:8px;
   --dna-shadow:0 18px 36px rgba(41,37,50,.09);
   --dna-heading:Georgia, "Times New Roman", serif;
-  --dna-font:Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --dna-font:"Avenir Next", Avenir, "Helvetica Neue", Arial, sans-serif;
 }
 body{
   font-family:var(--dna-font);
@@ -123,6 +123,15 @@ h1,h2,h3,.hero h1,.page-heading h1{
 .collection-card:nth-child(2n),.category-card:nth-child(2n),.post-card:nth-child(2n){transform:translateY(10px)}
 
 
+
+
+.site-header{background:#fffaff!important;border-bottom:1px solid var(--dna-line)}
+nav,.main-nav{gap:20px!important}
+.hero{min-height:620px;background:linear-gradient(180deg,#fff7fb,#fff)!important}
+.hero h1{font-weight:500!important}
+.button,.apply-btn{border-radius:999px!important}
+.card,.collection-card,.post-card{border-radius:26px!important}
+.site-footer{background:linear-gradient(135deg,#292532,#5f4f68)!important}
 
 @media (max-width:980px){
   .hero,.split,.feature-row,.intro-grid,.story-grid,.form-section,.split-section,.article-layout{grid-template-columns:1fr!important}
