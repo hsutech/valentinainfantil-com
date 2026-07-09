@@ -133,6 +133,13 @@ nav,.main-nav{gap:20px!important}
 .card,.collection-card,.post-card{border-radius:26px!important}
 .site-footer{background:linear-gradient(135deg,#292532,#5f4f68)!important}
 
+
+.site-header{display:grid!important;grid-template-columns:1fr!important;justify-items:center!important}
+.site-header nav{justify-content:center!important;width:100%;border-top:1px solid var(--dna-line);padding-top:12px!important}
+.hero{grid-template-columns:.9fr 1.1fr!important;min-height:680px!important}
+.category-grid{grid-template-columns:repeat(4,minmax(0,1fr))!important}
+.blog-strip .post-grid{grid-template-columns:1fr 1fr 1fr!important}
+
 @media (max-width:980px){
   .hero,.split,.feature-row,.intro-grid,.story-grid,.form-section,.split-section,.article-layout{grid-template-columns:1fr!important}
   .services-grid,.solution-grid,.category-grid,.collection-grid,.post-grid,.article-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}
