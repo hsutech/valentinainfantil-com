@@ -69,6 +69,16 @@ h1,h2,h3,.hero h1,.page-heading h1{
 .hero-panel,.featured-visual,.mini-visual{
   background:linear-gradient(135deg,var(--dna-ink),color-mix(in srgb,var(--dna-ink) 78%,var(--dna-accent) 22%))!important;
 }
+.hero-panel,.hero-panel h1,.hero-panel h2,.hero-panel h3,.hero-panel strong,.hero-panel dt,.hero-panel dd,.hero-panel span,
+.mini-visual,.featured-visual,.featured-visual strong{
+  color:#fff!important;
+}
+.hero-panel p,.hero-panel li{
+  color:rgba(255,255,255,.80)!important;
+}
+.hero-panel a{
+  color:#fff!important;
+}
 .section,.content-section,.intro-band,.split-section,.services-grid,.blog-strip,.post-grid,.contact-grid,.apply-layout,.lp-layout,.article-layout{
   border-color:var(--dna-line)!important;
 }
