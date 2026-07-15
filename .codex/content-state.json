@@ -10,9 +10,13 @@
       "priority": "Alta",
       "slug": "mejores-tiendas-de-comunion-en-granada",
       "title": "Mejores tiendas de comunión en Granada: 7 opciones para comparar bien",
-      "status": "draft_ready",
+      "status": "published",
       "selected_at": "2026-07-15",
+      "published_at": "2026-07-15",
+      "verified_at": "2026-07-15",
       "planned_url": "https://valentinainfantil.com/blog/mejores-tiendas-de-comunion-en-granada/",
+      "final_url": "https://valentinainfantil.com/blog/mejores-tiendas-de-comunion-en-granada/",
+      "article_commit_sha": "9029be7",
       "canonical": "https://valentinainfantil.com/blog/mejores-tiendas-de-comunion-en-granada/",
       "serp_notes": {
         "query": "mejores tiendas de comunión en Granada",
@@ -48,6 +52,16 @@
         "canonical": "Self-referencing canonical included.",
         "accessibility": "Featured image has descriptive alt text.",
         "template_text": "No placeholder or template copy intentionally left."
+      },
+      "deployment_verification": {
+        "status": "verified",
+        "attempts": 3,
+        "http_200": true,
+        "h1": "Mejores tiendas de comunión en Granada: 7 opciones para comparar bien",
+        "canonical": "https://valentinainfantil.com/blog/mejores-tiendas-de-comunion-en-granada/",
+        "image_loaded": true,
+        "blog_index": true,
+        "sitemap": true
       }
     }
   ]
