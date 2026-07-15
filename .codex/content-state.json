@@ -1,0 +1,54 @@
+{
+  "domain": "valentinainfantil.com",
+  "company": "Valentina Infantil",
+  "market": "Granada, Spain",
+  "language": "Español",
+  "last_run": "2026-07-15",
+  "items": [
+    {
+      "keyword": "mejores tiendas de comunión en Granada",
+      "priority": "Alta",
+      "slug": "mejores-tiendas-de-comunion-en-granada",
+      "title": "Mejores tiendas de comunión en Granada: 7 opciones para comparar bien",
+      "status": "draft_ready",
+      "selected_at": "2026-07-15",
+      "planned_url": "https://valentinainfantil.com/blog/mejores-tiendas-de-comunion-en-granada/",
+      "canonical": "https://valentinainfantil.com/blog/mejores-tiendas-de-comunion-en-granada/",
+      "serp_notes": {
+        "query": "mejores tiendas de comunión en Granada",
+        "target": "Google ES / Granada y Andalucía",
+        "observations": [
+          "La SERP accesible mezcla resultados locales, ferias, artículos de gasto y contenido informativo sobre comuniones; no aparece una guía local completa tipo ranking verificable como intención dominante.",
+          "La intención es BOFU/comercial local: familias que quieren comparar dónde comprar vestido o traje de comunión con prueba, presupuesto, arreglos y garantías.",
+          "Los resultados relevantes cubren costes de comunión, presión de gasto, ferias de eventos y garantías de compra, pero dejan gap en criterios prácticos de elección de tienda en Granada.",
+          "Se evita un ranking de tiendas por reseñas porque no se verificaron datos homogéneos y actuales de reputación; el artículo usa un listicle de siete opciones de compra comparables."
+        ],
+        "sources": [
+          "https://cadenaser.com/andalucia/2024/11/07/belmoda-vuelve-a-fermasa-como-referente-del-sector-nupcial-de-comuniones-y-eventos-en-toda-espana-radio-granada/",
+          "https://elpais.com/mamas-papas/actualidad/2026-06-10/la-primera-comunion-de-acontecimiento-intimo-y-espiritual-a-celebracion-ostentosa.html",
+          "https://cadenaser.com/castillayleon/2026/04/20/una-comunion-roza-ya-los-5000-euros-en-palencia-radio-palencia/",
+          "https://europa.eu/youreurope/citizens/consumers/shopping/guarantees/index_es.htm",
+          "https://archidiocesisgranada.es/"
+        ]
+      },
+      "internal_links": [
+        "https://valentinainfantil.com/categoria-producto/comunion/",
+        "https://valentinainfantil.com/categoria-producto/bautizo/",
+        "https://valentinainfantil.com/categoria-producto/arras/",
+        "https://valentinainfantil.com/blog/guia-de-tallas-infantiles/",
+        "https://valentinainfantil.com/contacto/",
+        "https://valentinainfantil.com/catalogo/"
+      ],
+      "featured_image": "/assets/blog/mejores-tiendas-comunion-granada.jpg",
+      "editorial_review": {
+        "intent_match": "BOFU local/comercial",
+        "canibalization": "No duplicate slug or matching intent found in src before publication.",
+        "claims": "No invented reviews, ratings, prices, experts or first-hand testing.",
+        "schema": "Article, FAQPage, BreadcrumbList, WebPage, WebSite and ClothingStore included.",
+        "canonical": "Self-referencing canonical included.",
+        "accessibility": "Featured image has descriptive alt text.",
+        "template_text": "No placeholder or template copy intentionally left."
+      }
+    }
+  ]
+}
