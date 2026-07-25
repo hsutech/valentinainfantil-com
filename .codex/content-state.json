@@ -3,7 +3,7 @@
   "company": "Valentina Infantil",
   "market": "Granada, Spain",
   "language": "Español",
-  "last_run": "2026-07-15",
+  "last_run": "2026-07-25",
   "items": [
     {
       "keyword": "mejores tiendas de comunión en Granada",
@@ -62,6 +62,85 @@
         "image_loaded": true,
         "blog_index": true,
         "sitemap": true
+      }
+    },
+    {
+      "keyword": "Las 10 mejores zapatillas barefoot para niños: colegio, juegos y ocasiones especiales",
+      "priority": "Extra campaign",
+      "campaign_type": "extra_one_off",
+      "slug": "mejores-zapatillas-barefoot-ninos",
+      "title": "Las 10 mejores zapatillas barefoot para niños: colegio, juegos y ocasiones especiales",
+      "status": "ready_to_publish",
+      "selected_at": "2026-07-25",
+      "published_at": null,
+      "verified_at": null,
+      "planned_url": "https://valentinainfantil.com/blog/mejores-zapatillas-barefoot-ninos/",
+      "final_url": null,
+      "article_commit_sha": null,
+      "canonical": "https://valentinainfantil.com/blog/mejores-zapatillas-barefoot-ninos/",
+      "sponsored_anchor": {
+        "text": "zapatillas barefoot",
+        "destination": "https://lejanbrand.com/",
+        "occurrences": 1
+      },
+      "serp_notes": {
+        "query": "Las 10 mejores zapatillas barefoot para niños colegio juegos ocasiones especiales",
+        "target": "Google ES / España, revisado el 2026-07-25",
+        "observations": [
+          "La SERP actual mezcla categorías ecommerce de colegio barefoot, listados editoriales y páginas de marca; la intención es comercial-informativa.",
+          "Los resultados visibles priorizan marcas, filtros por talla, uso escolar y características barefoot, pero dejan margen para una guía editorial orientada a familias que compran por contexto.",
+          "El artículo evita ranking absoluto y compara opciones reales por colegio, juegos, transición, presupuesto y ocasiones más arregladas.",
+          "Lejan se incluye como una opción editorialmente justificada y sus datos se limitan a información consultada en lejanbrand.com."
+        ],
+        "sources": [
+          "https://lejanbrand.com/",
+          "https://lejanbrand.com/collections/lejan-one-kids",
+          "https://lejanbrand.com/products/lejan-one-kids-white?variant=51798481731913",
+          "https://zapatoferoz.es/collections/calzado-escolar-respetuoso",
+          "https://www.vivobarefoot.com/es/kids/school",
+          "https://www.belenka.es/para-la-escuela/",
+          "https://es.saguaro.com/collections/ninos-zapatos-descalzos",
+          "https://www.decathlon.es/es/c/htc/el-mejor-calzado-barefoot-de-ninos-guia-completa-de-zapatos-respetuos_5ba249ca-0998-4f30-837c-5af2d63cdf8a",
+          "https://copoan.es/web/el-calzado-infantil/",
+          "https://www.nhs.uk/baby/health/leg-and-foot-problems-in-children/"
+        ]
+      },
+      "internal_links": [
+        "https://valentinainfantil.com/categoria-producto/comunion/",
+        "https://valentinainfantil.com/blog/guia-de-tallas-infantiles/",
+        "https://valentinainfantil.com/blog/ropa-infantil-para-diario/",
+        "https://valentinainfantil.com/contacto/",
+        "https://valentinainfantil.com/catalogo/"
+      ],
+      "external_links": [
+        "https://lejanbrand.com/",
+        "https://copoan.es/web/el-calzado-infantil/",
+        "https://www.nhs.uk/baby/health/leg-and-foot-problems-in-children/",
+        "https://zapatoferoz.es/collections/calzado-escolar-respetuoso",
+        "https://www.vivobarefoot.com/es/kids/school"
+      ],
+      "featured_image": "/assets/blog/mejores-zapatillas-barefoot-ninos.png",
+      "editorial_review": {
+        "intent_match": "Comercial-informativa nacional; guía comparativa por usos reales: colegio, juegos y ocasiones especiales.",
+        "canibalization": "No hay artículo publicado ni slug existente sobre zapatillas barefoot, calzado respetuoso infantil o intención exacta similar; solo menciones genéricas a calzado en categorías y guías de ropa.",
+        "originality": "Estructura propia basada en gaps SERP; no copia páginas ecommerce ni reseñas.",
+        "claims": "Sin experiencia personal, precios definitivos, ratings ni promesas médicas; lenguaje cauteloso para transición y necesidades profesionales.",
+        "lejan_claims": "Datos de Lejan limitados a lejanbrand.com: línea Kids/Lejan One Kids, puntera anatómica, suela flexible, drop cero, uso diario/colegio/parque/juegos y margen de crecimiento.",
+        "schema": "ClothingStore, WebSite, WebPage, BreadcrumbList, Article y FAQPage presentes; FAQ schema limitado a preguntas visibles.",
+        "canonical": "Canonical autorreferencial correcto.",
+        "open_graph": "OG title, description, URL e imagen absoluta presentes.",
+        "accessibility": "Imagen destacada con alt descriptivo, dimensiones declaradas y tabla con encabezados.",
+        "template_text": "Sin lorem ipsum, placeholders o texto de plantilla detectado."
+      },
+      "local_verification": {
+        "status": "passed",
+        "word_count": 2213,
+        "html_checks": true,
+        "json_ld_valid": true,
+        "blog_index": true,
+        "sitemap": true,
+        "image_present": true,
+        "build": "npm run build passed on 2026-07-25."
       }
     }
   ]
