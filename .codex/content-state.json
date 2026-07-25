@@ -69,19 +69,19 @@
       "priority": "Alta",
       "slug": "mejores-vestidos-de-comunion-en-granada",
       "title": "Mejores vestidos de comunión en Granada: 10 estilos que sí merece la pena probar",
-      "status": "ready_to_publish",
+      "status": "published",
       "selected_at": "2026-07-24",
-      "published_at": null,
-      "verified_at": null,
+      "published_at": "2026-07-25",
+      "verified_at": "2026-07-25",
       "planned_url": "https://valentinainfantil.com/blog/mejores-vestidos-de-comunion-en-granada/",
-      "final_url": null,
-      "article_commit_sha": null,
+      "final_url": "https://valentinainfantil.com/blog/mejores-vestidos-de-comunion-en-granada/",
+      "article_commit_sha": "e4bd04cc5820099ff2eb62373044a5602a7bf6e0",
       "canonical": "https://valentinainfantil.com/blog/mejores-vestidos-de-comunion-en-granada/",
       "run_result": {
-        "commit_created": false,
-        "push_completed": false,
-        "deployment_checked": false,
-        "reason": "Reconciled unfinished local draft from previous run; refreshed SERP, dates and checks on 2026-07-25 before publication."
+        "commit_created": true,
+        "push_completed": true,
+        "deployment_checked": true,
+        "result": "Custom-domain deployment verified on second production check after push."
       },
       "serp_notes": {
         "query": "mejores vestidos de comunión en Granada",
@@ -142,7 +142,19 @@
         "https://portal-cec.consumo.gob.es/es/informacion-general/temas-de-consumo/garantias",
         "https://sevilla.abc.es/estilo/bulevarsur/noticias/moda/vestido-comunion-consejos/",
         "https://www.impulsomodasgranada.com/collections/comunion-nina"
-      ]
+      ],
+      "deployment_verification": {
+        "status": "verified",
+        "attempts": 2,
+        "http_200": true,
+        "h1": "Mejores vestidos de comunión en Granada: 10 estilos que sí merece la pena probar",
+        "canonical": "https://valentinainfantil.com/blog/mejores-vestidos-de-comunion-en-granada/",
+        "image_loaded": true,
+        "image_content_type": "image/jpeg",
+        "blog_index": true,
+        "sitemap": true,
+        "checked_at": "2026-07-25T18:22:00Z"
+      }
     },
     {
       "keyword": "Las 10 mejores zapatillas barefoot para niños: colegio, juegos y ocasiones especiales",
