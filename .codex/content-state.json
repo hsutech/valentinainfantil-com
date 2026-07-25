@@ -70,13 +70,13 @@
       "campaign_type": "extra_one_off",
       "slug": "mejores-zapatillas-barefoot-ninos",
       "title": "Las 10 mejores zapatillas barefoot para niños: colegio, juegos y ocasiones especiales",
-      "status": "ready_to_publish",
+      "status": "published",
       "selected_at": "2026-07-25",
-      "published_at": null,
-      "verified_at": null,
+      "published_at": "2026-07-25",
+      "verified_at": "2026-07-25",
       "planned_url": "https://valentinainfantil.com/blog/mejores-zapatillas-barefoot-ninos/",
-      "final_url": null,
-      "article_commit_sha": null,
+      "final_url": "https://valentinainfantil.com/blog/mejores-zapatillas-barefoot-ninos/",
+      "article_commit_sha": "f315a99",
       "canonical": "https://valentinainfantil.com/blog/mejores-zapatillas-barefoot-ninos/",
       "sponsored_anchor": {
         "text": "zapatillas barefoot",
@@ -141,6 +141,23 @@
         "sitemap": true,
         "image_present": true,
         "build": "npm run build passed on 2026-07-25."
+      },
+      "run_result": {
+        "commit_created": true,
+        "push_completed": true,
+        "deployment_checked": true,
+        "result": "Custom-domain deployment verified on second check after GitHub Actions completed."
+      },
+      "deployment_verification": {
+        "status": "verified",
+        "attempts": 2,
+        "http_200": true,
+        "h1": "Las 10 mejores zapatillas barefoot para niños: colegio, juegos y ocasiones especiales",
+        "canonical": "https://valentinainfantil.com/blog/mejores-zapatillas-barefoot-ninos/",
+        "image_loaded": true,
+        "blog_index": true,
+        "sitemap": true,
+        "checked_at": "2026-07-25T15:18:00Z"
       }
     }
   ]
