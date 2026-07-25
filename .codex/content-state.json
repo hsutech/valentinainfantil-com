@@ -65,6 +65,86 @@
       }
     },
     {
+      "keyword": "mejores vestidos de comunión en Granada",
+      "priority": "Alta",
+      "slug": "mejores-vestidos-de-comunion-en-granada",
+      "title": "Mejores vestidos de comunión en Granada: 10 estilos que sí merece la pena probar",
+      "status": "ready_to_publish",
+      "selected_at": "2026-07-24",
+      "published_at": null,
+      "verified_at": null,
+      "planned_url": "https://valentinainfantil.com/blog/mejores-vestidos-de-comunion-en-granada/",
+      "final_url": null,
+      "article_commit_sha": null,
+      "canonical": "https://valentinainfantil.com/blog/mejores-vestidos-de-comunion-en-granada/",
+      "run_result": {
+        "commit_created": false,
+        "push_completed": false,
+        "deployment_checked": false,
+        "reason": "Reconciled unfinished local draft from previous run; refreshed SERP, dates and checks on 2026-07-25 before publication."
+      },
+      "serp_notes": {
+        "query": "mejores vestidos de comunión en Granada",
+        "target": "Google ES / Granada y Andalucía, revisado el 2026-07-25",
+        "observations": [
+          "La intención dominante sigue siendo BOFU/comercial local: familias que quieren comparar estilos, tiendas y criterios antes de reservar prueba o comprar vestido de comunión en Granada.",
+          "Los primeros resultados relevantes combinan catálogos locales de comunión niña, páginas de tiendas/talleres de ceremonia, fichas ecommerce y guías informativas de elección; predominan páginas con fotos de producto y poca metodología editorial.",
+          "Extensión aproximada SERP: catálogos y fichas de tienda con texto breve y muchas imágenes; guías editoriales de 1.200-2.500 palabras con TOC, consejos de comodidad y enlaces a producto; autoría normalmente marca/tienda, no experto individual.",
+          "Cobertura frecuente: tejidos, colores, códigos de ceremonia, complementos, disponibilidad, tallas, contacto y garantías; entidades observadas: Granada, comunión niña, Impulso Modas, Tere Ruiz, M-9, C&A, EFE, Centro Europeo del Consumidor.",
+          "Gaps: falta una comparativa por estilos con método de prueba, coste total, errores de compra, enlaces internos locales reales, FAQs y diferenciación frente al artículo de tiendas; no se detectó necesidad clara de vídeo de YouTube."
+        ],
+        "sources": [
+          "https://www.impulsomodasgranada.com/collections/comunion-nina",
+          "https://www.m9granada.es/detalles.asp?id=2640&nomefam=",
+          "https://www.tereruiz.es/",
+          "https://www.c-and-a.com/es/es/shop/outfit-comunion",
+          "https://www.paquibarroso.es/",
+          "https://efe.com/espana/2026-04-06/coste-comuniones-sube-21-2026-hasta-6-800-euros-media/",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/temas-de-consumo/garantias",
+          "https://sevilla.abc.es/estilo/bulevarsur/noticias/moda/vestido-comunion-consejos/"
+        ]
+      },
+      "internal_links": [
+        "https://valentinainfantil.com/categoria-producto/comunion/",
+        "https://valentinainfantil.com/blog/guia-de-tallas-infantiles/",
+        "https://valentinainfantil.com/blog/mejores-tiendas-de-comunion-en-granada/",
+        "https://valentinainfantil.com/contacto/"
+      ],
+      "featured_image": "/assets/blog/mejores-vestidos-comunion-granada.jpg",
+      "editorial_review": {
+        "intent_match": "BOFU local/comercial; listicle por estilos con criterios de compra, no ranking de reputación no verificable.",
+        "canibalization": "No hay slug duplicado ni artículo publicado con la misma intención exacta; se diferencia del post de tiendas y lo enlaza como apoyo.",
+        "originality": "Estructura y redacción propias basadas en gaps SERP; no copia páginas de catálogo, fichas ecommerce ni reseñas.",
+        "claims": "Claims de coste y garantías respaldados por EFE y Centro Europeo del Consumidor; sin precios locales propios, reseñas, ratings, expertos ni experiencia personal inventada.",
+        "schema": "ClothingStore, WebSite, WebPage, BreadcrumbList, Article y FAQPage presentes y parseables.",
+        "canonical": "Canonical autorreferencial correcto.",
+        "open_graph": "OG title, description, URL e imagen absoluta presentes.",
+        "image": "Imagen destacada original en JPG, sin texto incrustado, con alt descriptivo y dimensiones declaradas.",
+        "accessibility": "H1 único, tabla con encabezados, imagen con alt y enlaces con texto contextual.",
+        "youtube": "No se añadió vídeo: la SERP y el tema no justifican un embed útil sin distraer de la decisión de compra.",
+        "template_text": "Sin lorem ipsum, TODO/FIXME, placeholders ni texto de plantilla; la aparición de pendientes es vocabulario editorial legítimo."
+      },
+      "local_verification": {
+        "status": "passed",
+        "word_count": 2808,
+        "html_checks": true,
+        "json_ld_valid": true,
+        "blog_index": true,
+        "sitemap": true,
+        "image_present": true,
+        "local_http_200": true,
+        "local_h1": "Mejores vestidos de comunión en Granada: 10 estilos que sí merece la pena probar",
+        "local_canonical": "https://valentinainfantil.com/blog/mejores-vestidos-de-comunion-en-granada/",
+        "build": "npm run build passed on 2026-07-25."
+      },
+      "external_links": [
+        "https://efe.com/espana/2026-04-06/coste-comuniones-sube-21-2026-hasta-6-800-euros-media/",
+        "https://portal-cec.consumo.gob.es/es/informacion-general/temas-de-consumo/garantias",
+        "https://sevilla.abc.es/estilo/bulevarsur/noticias/moda/vestido-comunion-consejos/",
+        "https://www.impulsomodasgranada.com/collections/comunion-nina"
+      ]
+    },
+    {
       "keyword": "Las 10 mejores zapatillas barefoot para niños: colegio, juegos y ocasiones especiales",
       "priority": "Extra campaign",
       "campaign_type": "extra_one_off",
@@ -123,7 +203,7 @@
       "editorial_review": {
         "intent_match": "Comercial-informativa nacional; guía comparativa por usos reales: colegio, juegos y ocasiones especiales.",
         "canibalization": "No hay artículo publicado ni slug existente sobre zapatillas barefoot, calzado respetuoso infantil o intención exacta similar; solo menciones genéricas a calzado en categorías y guías de ropa.",
-        "originality": "Estructura propia basada en gaps SERP; no copia páginas ecommerce ni reseñas.",
+        "originality": "Estructura propia basada en gaps SERP; no copia listados ecommerce ni reseñas.",
         "claims": "Sin experiencia personal, precios definitivos, ratings ni promesas médicas; lenguaje cauteloso para transición y necesidades profesionales.",
         "lejan_claims": "Datos de Lejan limitados a lejanbrand.com: línea Kids/Lejan One Kids, puntera anatómica, suela flexible, drop cero, uso diario/colegio/parque/juegos y margen de crecimiento.",
         "schema": "ClothingStore, WebSite, WebPage, BreadcrumbList, Article y FAQPage presentes; FAQ schema limitado a preguntas visibles.",
@@ -150,7 +230,7 @@
       },
       "deployment_verification": {
         "status": "verified",
-        "attempts": 2,
+        "attempts": 3,
         "http_200": true,
         "h1": "Las 10 mejores zapatillas barefoot para niños: colegio, juegos y ocasiones especiales",
         "canonical": "https://valentinainfantil.com/blog/mejores-zapatillas-barefoot-ninos/",
