@@ -3,7 +3,7 @@
   "company": "Valentina Infantil",
   "market": "Granada, Spain",
   "language": "Español",
-  "last_run": "2026-07-28",
+  "last_run": "2026-08-03",
   "items": [
     {
       "keyword": "mejores tiendas de comunión en Granada",
@@ -340,6 +340,100 @@
         "blog_index": true,
         "sitemap": true,
         "checked_at": "2026-07-28T18:22:50Z"
+      }
+    },
+    {
+      "keyword": "mejores vestidos de bautizo para bebé",
+      "priority": "Alta",
+      "slug": "mejores-vestidos-de-bautizo-para-bebe",
+      "title": "Mejores vestidos de bautizo para bebé: 10 opciones que conviene mirar",
+      "status": "published",
+      "selected_at": "2026-08-03",
+      "published_at": "2026-08-03",
+      "verified_at": "2026-08-03",
+      "planned_url": "https://valentinainfantil.com/blog/mejores-vestidos-de-bautizo-para-bebe/",
+      "final_url": "https://valentinainfantil.com/blog/mejores-vestidos-de-bautizo-para-bebe/",
+      "article_commit_sha": "85bb59750a71020b0cf6b7664a14ca8d540604d0",
+      "canonical": "https://valentinainfantil.com/blog/mejores-vestidos-de-bautizo-para-bebe/",
+      "serp_notes": {
+        "query": "mejores vestidos de bautizo para bebé",
+        "target": "Google ES / Granada y Andalucía, revisado el 2026-08-03",
+        "observations": [
+          "La intención dominante es BOFU/comercial-informativa: familias que comparan vestidos, faldones, jesusitos, tejidos, talla y compra antes del bautizo del bebé.",
+          "Los primeros resultados relevantes combinan guías editoriales, categorías ecommerce, marketplaces y tiendas de ceremonia infantil; predominan páginas con producto/fotos, autoría de marca o medio y extensión aproximada entre texto breve de categoría y guías de 1.200-2.500 palabras.",
+          "Cobertura frecuente: blanco/marfil, faldón de cristianar, vestido corto, jesusito, pelele, capota, algodón, lino, batista, organdí, tallas, movilidad, ceremonia religiosa, cambios, devoluciones y garantías.",
+          "Gaps detectados: falta una comparativa práctica por tipo de prenda y edad/movilidad del bebé, con tabla, errores de compra, enlaces internos reales, garantías/desistimiento y enfoque local Granada/Andalucía sin inventar rankings, precios ni reseñas.",
+          "No se añadió vídeo de YouTube porque la intención de compra se resolvía mejor con imagen, tabla y criterios de prueba; no apareció una necesidad clara de tutorial visual."
+        ],
+        "sources": [
+          "https://www.c-and-a.com/es/es/shop/outfits-bautizo",
+          "https://www.c-and-a.com/es/es/shop/tendencia-ropa-para-bautizo",
+          "https://www.delfinmodainfantil.com/c522463-vestidos-bautizo-bebe-nina-online.html",
+          "https://www.zoyafashion.es/blog/vestidos-bebe-bautizo-guia-practica-mamas-2026",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/garantias",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones",
+          "https://quemono.com/bautizo-nina/",
+          "https://www.zalando.es/nino/?q=vestidos+bautizo+ni%C3%B1a"
+        ]
+      },
+      "internal_links": [
+        "https://valentinainfantil.com/blog/guia-de-tallas-infantiles/",
+        "https://valentinainfantil.com/categoria-producto/bautizo/",
+        "https://valentinainfantil.com/categoria-producto/canastilla/",
+        "https://valentinainfantil.com/blog/gestionar-cambios-talla-devoluciones-ecommerce-moda-infantil/",
+        "https://valentinainfantil.com/contacto/"
+      ],
+      "external_links": [
+        "https://www.c-and-a.com/es/es/shop/outfits-bautizo",
+        "https://www.delfinmodainfantil.com/c522463-vestidos-bautizo-bebe-nina-online.html",
+        "https://www.zoyafashion.es/blog/vestidos-bebe-bautizo-guia-practica-mamas-2026",
+        "https://portal-cec.consumo.gob.es/es/informacion-general/temas-de-consumo/garantias"
+      ],
+      "featured_image": "/assets/blog/mejores-vestidos-bautizo-bebe.jpg",
+      "editorial_review": {
+        "intent_match": "BOFU/comercial-informativa; listicle de 10 opciones por tipo de prenda y criterio de compra, no ranking de reputación no verificable.",
+        "canibalization": "No había slug publicado ni artículo con la misma intención exacta; se diferencia de bautizo/canastilla generales y de artículos de comunión.",
+        "originality": "Estructura y redacción propias basadas en gaps SERP; no copia guías editoriales, categorías ecommerce ni fichas de producto.",
+        "claims": "Garantías y desistimiento respaldados por CEC; sin precios locales propios, reseñas, ratings, expertos ni experiencia personal inventada.",
+        "schema": "ClothingStore, WebSite, WebPage, BreadcrumbList, Article y FAQPage presentes y parseables.",
+        "canonical": "Canonical autorreferencial correcto.",
+        "open_graph": "OG title, description, URL e imagen absoluta presentes.",
+        "image": "Imagen destacada JPG 1536x1024, sin texto incrustado, con alt descriptivo y dimensiones declaradas.",
+        "accessibility": "H1 único, tabla con encabezados, enlaces contextuales, imagen con alt y sin overflow local/producción en desktop/móvil.",
+        "youtube": "No se añadió vídeo: la SERP y el tema no justifican embed frente a imagen, tabla y criterios de compra.",
+        "template_text": "Sin lorem ipsum, TODO/FIXME, placeholders ni texto de plantilla detectado."
+      },
+      "local_verification": {
+        "status": "passed",
+        "word_count": 2152,
+        "html_checks": true,
+        "json_ld_valid": true,
+        "blog_index": true,
+        "sitemap": true,
+        "image_present": true,
+        "desktop_render": "Local 1440x1000 equivalent passed: H1/canonical/image, no horizontal overflow or overflowing text.",
+        "mobile_render": "Local 390x844 equivalent passed: H1/canonical/image/nav toggle, no horizontal overflow or overflowing text.",
+        "build": "npx eleventy --quiet passed on 2026-08-03; initial npm run build was stopped during warm-up diagnosis before final successful build."
+      },
+      "run_result": {
+        "commit_created": true,
+        "push_completed": true,
+        "deployment_checked": true,
+        "result": "Custom-domain deployment verified on second production check after GitHub Actions completed."
+      },
+      "deployment_verification": {
+        "status": "verified",
+        "attempts": 2,
+        "http_200": true,
+        "h1": "Mejores vestidos de bautizo para bebé: 10 opciones que conviene mirar",
+        "canonical": "https://valentinainfantil.com/blog/mejores-vestidos-de-bautizo-para-bebe/",
+        "image_loaded": true,
+        "image_content_type": "image/jpeg",
+        "blog_index": true,
+        "sitemap": true,
+        "desktop_render": "Production desktop passed: no horizontal overflow, image loaded 1536x1024.",
+        "mobile_render": "Production mobile passed: no horizontal overflow, image loaded 1536x1024 and nav toggle visible.",
+        "checked_at": "2026-08-03T18:31:00Z"
       }
     }
   ]
