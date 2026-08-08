@@ -3,7 +3,7 @@
   "company": "Valentina Infantil",
   "market": "Granada, Spain",
   "language": "Español",
-  "last_run": "2026-08-03",
+  "last_run": "2026-08-08",
   "items": [
     {
       "keyword": "mejores tiendas de comunión en Granada",
@@ -434,6 +434,84 @@
         "desktop_render": "Production desktop passed: no horizontal overflow, image loaded 1536x1024.",
         "mobile_render": "Production mobile passed: no horizontal overflow, image loaded 1536x1024 and nav toggle visible.",
         "checked_at": "2026-08-03T18:31:00Z"
+      }
+    },
+    {
+      "keyword": "crear imágenes editoriales con IA para campañas de moda infantil",
+      "priority": "Campaña guest-post Magnific",
+      "slug": "como-crear-imagenes-editoriales-con-ia-para-campanas-de-moda-infantil-de-forma-responsable",
+      "title": "Cómo crear imágenes editoriales con IA para campañas de moda infantil de forma responsable",
+      "status": "published",
+      "selected_at": "2026-08-08",
+      "published_at": "2026-08-08",
+      "verified_at": "2026-08-08",
+      "planned_url": "https://valentinainfantil.com/blog/como-crear-imagenes-editoriales-con-ia-para-campanas-de-moda-infantil-de-forma-responsable/",
+      "final_url": "https://valentinainfantil.com/blog/como-crear-imagenes-editoriales-con-ia-para-campanas-de-moda-infantil-de-forma-responsable/",
+      "article_commit_sha": "124b201",
+      "canonical": "https://valentinainfantil.com/blog/como-crear-imagenes-editoriales-con-ia-para-campanas-de-moda-infantil-de-forma-responsable/",
+      "campaign": {
+        "host": "valentinainfantil.com",
+        "required_anchor": "generador de imágenes de Magnific",
+        "required_destination": "https://www.magnific.com/ai/image-generator",
+        "backlink": "verified_followed_exactly_once",
+        "editorial_angle": "Responsible campaign ideation for childrenswear, avoiding synthetic product claims and identifiable real children."
+      },
+      "serp_notes": {
+        "query": "crear imágenes editoriales con IA moda infantil responsable campañas niños",
+        "target": "Google ES / mercado español, revisado el 2026-08-08",
+        "observations": [
+          "La SERP accesible mezcla herramientas de generación de imágenes, guías legales de transparencia de IA, políticas publicitarias y recursos de protección infantil; no hay una guía local completa centrada en moda infantil responsable.",
+          "La intención dominante es informativa/comercial: equipos de moda o ecommerce quieren entender cómo usar IA visual en ideación editorial sin presentar resultados sintéticos como producto, sesión real o menor identificable.",
+          "Cobertura frecuente: transparencia de contenido generado por IA, etiquetado publicitario, riesgos de deepfakes o menores, límites entre inspiración y resultado real, y flujos de revisión editorial.",
+          "Gap cubierto: flujo práctico para moda infantil con reglas de uso, tabla de decisiones, checklist legal-editorial, mención neutral de Magnific y enlaces internos reales de Valentina Infantil."
+        ],
+        "sources": [
+          "https://www.magnific.com/ai/image-generator",
+          "https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems",
+          "https://support.google.com/My-Ad-Center-Help/answer/17196133?hl=en",
+          "https://www.unicef.org/innocenti/reports/policy-guidance-ai-children",
+          "https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-staff-paper-details-potential-harms-kids-blurred-advertising-recommends-marketers-steer-clear",
+          "https://www.unicef.org/protection/press-releases/unicef-warns-deepfakes-and-ai-generated-child-sexual-abuse-material"
+        ]
+      },
+      "internal_links": [
+        "https://valentinainfantil.com/blog/guia-de-tallas-infantiles/",
+        "https://valentinainfantil.com/blog/gestionar-cambios-talla-devoluciones-ecommerce-moda-infantil/",
+        "https://valentinainfantil.com/catalogo/",
+        "https://valentinainfantil.com/contacto/"
+      ],
+      "external_links": [
+        "https://www.magnific.com/ai/image-generator",
+        "https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems",
+        "https://support.google.com/My-Ad-Center-Help/answer/17196133?hl=en",
+        "https://www.unicef.org/innocenti/reports/policy-guidance-ai-children",
+        "https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-staff-paper-details-potential-harms-kids-blurred-advertising-recommends-marketers-steer-clear"
+      ],
+      "featured_image": "/assets/blog/imagenes-editoriales-ia-moda-infantil-responsable.png",
+      "editorial_review": {
+        "intent_match": "Informativa/comercial sobre ideación responsable con IA visual en moda infantil.",
+        "canibalization": "Campaña especial; no duplica los posts BOFU de comunión, bautizo, barefoot, tallas ni devoluciones.",
+        "claims": "No incluye pruebas inventadas, precios, claims de superioridad ni usa visuales sintéticos como evidencia de producto real.",
+        "schema": "Article, FAQPage, BreadcrumbList and website/store schema parseable.",
+        "canonical": "Self-referencing canonical verified.",
+        "accessibility": "Featured image has descriptive alt text and rendered in desktop/mobile.",
+        "template_text": "No placeholder or template copy detected in validation pass."
+      },
+      "deployment_verification": {
+        "status": "verified",
+        "attempts": 2,
+        "http_200": true,
+        "h1": "Cómo crear imágenes editoriales con IA para campañas de moda infantil de forma responsable",
+        "canonical": "https://valentinainfantil.com/blog/como-crear-imagenes-editoriales-con-ia-para-campanas-de-moda-infantil-de-forma-responsable/",
+        "image_loaded": true,
+        "image_content_type": "image/png",
+        "image_bytes": 2381414,
+        "blog_index": true,
+        "sitemap": true,
+        "backlink": "exact followed link present once",
+        "desktop_render": "Production desktop passed: no horizontal overflow; featured image natural width 1536.",
+        "mobile_render": "Production mobile passed: no horizontal overflow; featured image natural width 1536.",
+        "checked_at": "2026-08-08T18:30:00Z"
       }
     }
   ]
