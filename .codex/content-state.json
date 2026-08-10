@@ -3,7 +3,7 @@
   "company": "Valentina Infantil",
   "market": "Granada, Spain",
   "language": "Español",
-  "last_run": "2026-08-08",
+  "last_run": "2026-08-10",
   "items": [
     {
       "keyword": "mejores tiendas de comunión en Granada",
@@ -512,6 +512,100 @@
         "desktop_render": "Production desktop passed: no horizontal overflow; featured image natural width 1536.",
         "mobile_render": "Production mobile passed: no horizontal overflow; featured image natural width 1536.",
         "checked_at": "2026-08-08T18:30:00Z"
+      }
+    },
+    {
+      "keyword": "mejores trajes de bautizo para niño",
+      "priority": "Alta",
+      "slug": "mejores-trajes-de-bautizo-para-nino",
+      "title": "Mejores trajes de bautizo para niño: 10 estilos que conviene probar",
+      "status": "published",
+      "selected_at": "2026-08-10",
+      "published_at": "2026-08-10",
+      "verified_at": "2026-08-10",
+      "planned_url": "https://valentinainfantil.com/blog/mejores-trajes-de-bautizo-para-nino/",
+      "final_url": "https://valentinainfantil.com/blog/mejores-trajes-de-bautizo-para-nino/",
+      "article_commit_sha": "d88a94c",
+      "canonical": "https://valentinainfantil.com/blog/mejores-trajes-de-bautizo-para-nino/",
+      "serp_notes": {
+        "query": "mejores trajes de bautizo para niño",
+        "target": "Google ES / Granada y Andalucía, revisado el 2026-08-10",
+        "observations": [
+          "La SERP accesible mezcla categorías ecommerce, tiendas de ceremonia infantil y guías de estilo; la intención dominante es BOFU/comercial-informativa.",
+          "Los primeros resultados relevantes priorizan producto, fotos, filtros por talla, envío y textos de categoría; la autoría suele ser marca o tienda, no experto individual.",
+          "Cobertura frecuente: faldón, batón, pelele, ranita, lino, plumeti, batista, capota, patucos, fabricación española, asesoramiento, cambios y devoluciones.",
+          "Gap editorial cubierto: comparativa por edad, movilidad, temporada, capas, acceso al pañal y política de compra, sin ranking absoluto, precios, reviews ni pruebas inventadas.",
+          "No se añadió vídeo de YouTube porque la intención se resolvía mejor con tabla, criterios de prueba, imagen editorial y enlaces de asesoramiento reales."
+        ],
+        "sources": [
+          "https://www.primerdia.es/es/catalogo/bautizo",
+          "https://www.chicandchic.es/tienda/bautizo/trajes-nino-bautizo/",
+          "https://www.elbauldelpeque.com/270-bautizo-nino",
+          "https://www.delfinmodainfantil.com/c522464-trajes-bautizo-bebe-nino-online.html",
+          "https://www.modainfantilkids.com/c571389-bautizo-nino.html",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/garantias",
+          "https://www.healthychildren.org/spanish/ages-stages/baby/diapers-clothing/paginas/dressing-your-newborn.aspx"
+        ]
+      },
+      "internal_links": [
+        "https://valentinainfantil.com/categoria-producto/bautizo/",
+        "https://valentinainfantil.com/categoria-producto/nino/",
+        "https://valentinainfantil.com/categoria-producto/canastilla/",
+        "https://valentinainfantil.com/blog/guia-de-tallas-infantiles/",
+        "https://valentinainfantil.com/blog/gestionar-cambios-talla-devoluciones-ecommerce-moda-infantil/",
+        "https://valentinainfantil.com/contacto/"
+      ],
+      "external_links": [
+        "https://www.delfinmodainfantil.com/c522464-trajes-bautizo-bebe-nino-online.html",
+        "https://www.chicandchic.es/tienda/bautizo/trajes-nino-bautizo/",
+        "https://www.elbauldelpeque.com/270-bautizo-nino",
+        "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/garantias",
+        "https://www.healthychildren.org/spanish/ages-stages/baby/diapers-clothing/paginas/dressing-your-newborn.aspx"
+      ],
+      "featured_image": "/assets/blog/mejores-trajes-bautizo-nino.jpg",
+      "editorial_review": {
+        "intent_match": "BOFU comercial-informativa; listicle comparativo de 10 estilos de traje de bautizo para niño.",
+        "canibalization": "No había slug publicado ni artículo con intención exacta; se diferencia del post de vestidos de bautizo para bebé y enlaza recursos de apoyo.",
+        "originality": "Estructura propia basada en gaps SERP; no copia categorías ecommerce ni rankings no verificables.",
+        "claims": "Sin precios, ratings, reviews, expertos ni experiencia personal inventada; claims de consumo y seguridad respaldados por CEC y HealthyChildren.",
+        "schema": "ClothingStore, WebSite, WebPage, BreadcrumbList, Article y FAQPage parseables.",
+        "canonical": "Canonical autorreferencial correcto.",
+        "open_graph": "OG title, description, URL e imagen absoluta presentes.",
+        "image": "Imagen original generada con imagegen y convertida a JPG 1536x1024, sin menores, caras, logos ni producto real reclamado como probado.",
+        "accessibility": "H1 único, tabla con encabezados, imagen con alt y enlaces contextuales.",
+        "youtube": "No se añadió vídeo: la SERP no justificó un embed frente a tabla e imagen.",
+        "template_text": "Sin lorem ipsum, placeholders ni texto de plantilla detectado; falsos positivos por palabras españolas descartados."
+      },
+      "local_verification": {
+        "status": "passed",
+        "word_count": 2149,
+        "html_checks": true,
+        "json_ld_valid": true,
+        "blog_index": true,
+        "sitemap": true,
+        "image_present": true,
+        "image_content_type": "image/jpeg",
+        "image_dimensions": "1536x1024",
+        "build": "npm run build passed on 2026-08-10.",
+        "render_note": "Local browser screenshot could not run because Playwright browser binary was not installed; static server and HTML/image checks passed."
+      },
+      "run_result": {
+        "commit_created": true,
+        "push_completed": true,
+        "deployment_checked": true,
+        "result": "Custom-domain deployment verified on second production check after push."
+      },
+      "deployment_verification": {
+        "status": "verified",
+        "attempts": 2,
+        "http_200": true,
+        "h1": "Mejores trajes de bautizo para niño: 10 estilos que conviene probar",
+        "canonical": "https://valentinainfantil.com/blog/mejores-trajes-de-bautizo-para-nino/",
+        "image_loaded": true,
+        "image_content_type": "image/jpeg",
+        "blog_index": true,
+        "sitemap": true,
+        "checked_at": "2026-08-10T20:29:09+02:00"
       }
     }
   ]
