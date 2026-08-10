@@ -587,7 +587,7 @@
         "image_content_type": "image/jpeg",
         "image_dimensions": "1536x1024",
         "build": "npm run build passed on 2026-08-10.",
-        "render_note": "Local browser screenshot could not run because Playwright browser binary was not installed; static server and HTML/image checks passed."
+        "render_note": "Chrome headless public render screenshots created for desktop 1440x1000 and mobile 390x844; both nonblank with expected dimensions."
       },
       "run_result": {
         "commit_created": true,
@@ -605,7 +605,9 @@
         "image_content_type": "image/jpeg",
         "blog_index": true,
         "sitemap": true,
-        "checked_at": "2026-08-10T20:29:09+02:00"
+        "checked_at": "2026-08-10T20:52:14+02:00",
+        "desktop_render": "Chrome headless public screenshot 1440x1000 created; nonblank and page rendered.",
+        "mobile_render": "Chrome headless public screenshot 390x844 created; nonblank and page rendered."
       }
     }
   ]
