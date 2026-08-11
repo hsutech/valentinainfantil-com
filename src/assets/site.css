@@ -696,6 +696,18 @@ form input:focus, form textarea:focus { outline: 2px solid var(--accent); outlin
     radial-gradient(circle at 80% 80%, rgba(41,37,50,0.35), transparent 55%);
   pointer-events: none;
 }
+.article .featured-visual.article-photo {
+  background: var(--soft);
+  padding: 0;
+  display: block;
+}
+.article .featured-visual.article-photo::before { content: none; }
+.article .featured-visual.article-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: inherit;
+}
 .article .featured-visual > span { flex: 1 1 100%; }
 .article .featured-visual strong {
   position: relative;
