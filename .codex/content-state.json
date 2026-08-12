@@ -3,7 +3,7 @@
   "company": "Valentina Infantil",
   "market": "Granada, Spain",
   "language": "Español",
-  "last_run": "2026-08-11",
+  "last_run": "2026-08-12",
   "items": [
     {
       "keyword": "mejores tiendas de comunión en Granada",
@@ -713,6 +713,111 @@
         "blog_index": true,
         "sitemap": true,
         "checked_at": "2026-08-11T20:33:00+02:00",
+        "desktop_render": "Chrome headless public screenshot 1440x1000 created; nonblank and page rendered.",
+        "mobile_render": "Chrome headless public screenshot 390x844 created; nonblank and page rendered."
+      }
+    },
+    {
+      "keyword": "mejores trajes de arras para niño",
+      "priority": "Alta",
+      "slug": "mejores-trajes-de-arras-para-nino",
+      "title": "Mejores trajes de arras para niño: 10 estilos que conviene probar",
+      "status": "published",
+      "selected_at": "2026-08-12",
+      "published_at": "2026-08-12",
+      "verified_at": "2026-08-12",
+      "planned_url": "https://valentinainfantil.com/blog/mejores-trajes-de-arras-para-nino/",
+      "final_url": "https://valentinainfantil.com/blog/mejores-trajes-de-arras-para-nino/",
+      "article_commit_sha": "e9083c0e02b4304ceb0098863d2691f8d855d3e2",
+      "canonical": "https://valentinainfantil.com/blog/mejores-trajes-de-arras-para-nino/",
+      "campaign_precheck": {
+        "magnific_article_live": true,
+        "required_anchor": "generador de imágenes de Magnific",
+        "required_destination": "https://www.magnific.com/ai/image-generator",
+        "exact_followed_count": 1,
+        "checked_at": "2026-08-12T20:27:00+02:00"
+      },
+      "serp_notes": {
+        "query": "mejores trajes de arras para niño",
+        "target": "Google ES / Granada y Andalucía, revisado el 2026-08-12",
+        "observations": [
+          "La SERP accesible mezcla categorías ecommerce, tiendas de ceremonia infantil, directorios de boda y guías editoriales; la intención dominante es BOFU/comercial-informativa.",
+          "Los primeros resultados relevantes priorizan imágenes, filtros por edad/talla/temporada, tejido, personalización, compra online, contacto y coordinación con pajes o niñas de arras.",
+          "Cobertura frecuente: chaleco, camisa mao, bermuda, pantalón largo, peto, pajarita, tirantes, lino, colores neutros, tonos pastel, cambios y devoluciones.",
+          "Gap editorial cubierto: comparativa por edad, movilidad, formalidad, clima andaluz, coordinación y política de compra, sin inventar precios, reseñas, rankings absolutos ni experiencia personal.",
+          "No se añadió vídeo de YouTube porque la intención se resolvía mejor con tabla, criterios de prueba, imagen editorial original y fuentes de consumo/ceremonia."
+        ],
+        "sources": [
+          "https://www.delfinmodainfantil.com/c522139-trajes-arras-nino-online.html",
+          "https://quemono.com/trajes-ninos-arras/",
+          "https://luciasecasa.com/moda/ninos/trajes-de-los-ninos-de-arras-consejos/",
+          "https://www.protocolo.org/social/bodas/los-pajes-en-un-boda.html",
+          "https://www.dolcecocco.com/categoria/46-ceremonia-infantil",
+          "https://www.protocolo.org/preguntasconrespuesta/qid635.html",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/garantias",
+          "https://administracion.gob.es/pag_Home/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/consumidores/compraventa/devolucion"
+        ]
+      },
+      "internal_links": [
+        "https://valentinainfantil.com/categoria-producto/arras/",
+        "https://valentinainfantil.com/categoria-producto/nino/",
+        "https://valentinainfantil.com/blog/guia-de-tallas-infantiles/",
+        "https://valentinainfantil.com/blog/mejores-vestidos-de-arras-para-nina/",
+        "https://valentinainfantil.com/categoria-producto/comunion/",
+        "https://valentinainfantil.com/blog/gestionar-cambios-talla-devoluciones-ecommerce-moda-infantil/",
+        "https://valentinainfantil.com/contacto/"
+      ],
+      "external_links": [
+        "https://luciasecasa.com/moda/ninos/trajes-de-los-ninos-de-arras-consejos/",
+        "https://www.protocolo.org/social/bodas/los-pajes-en-un-boda.html",
+        "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/garantias",
+        "https://administracion.gob.es/pag_Home/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/consumidores/compraventa/devolucion"
+      ],
+      "featured_image": "/assets/blog/mejores-trajes-arras-nino.png",
+      "editorial_review": {
+        "intent_match": "BOFU comercial-informativa; listicle comparativo de 10 estilos de traje de arras para niño.",
+        "canibalization": "No había slug publicado ni artículo con intención exacta; se diferencia del post de vestidos de arras para niña y enlaza recursos relacionados.",
+        "originality": "Estructura propia basada en gaps SERP; no copia categorías ecommerce, directorios ni guías editoriales.",
+        "claims": "Sin precios, ratings, reseñas, expertos ni experiencia personal inventada; claims de consumo respaldados por CEC y Punto de Acceso General.",
+        "schema": "ClothingStore, WebSite, WebPage, BreadcrumbList, Article y FAQPage parseables.",
+        "canonical": "Canonical autorreferencial correcto.",
+        "open_graph": "OG title, description, URL e imagen absoluta presentes.",
+        "image": "Imagen original generada con imagegen en PNG 1536x1024, sin menores, caras, logos ni producto real reclamado como probado.",
+        "accessibility": "H1 único, tabla con encabezados, imagen con alt y enlaces contextuales.",
+        "youtube": "No se añadió vídeo: la SERP no justificó un embed frente a tabla e imagen.",
+        "template_text": "Sin lorem ipsum, placeholders, TODO/FIXME ni texto de plantilla detectado."
+      },
+      "local_verification": {
+        "status": "passed",
+        "word_count": 2182,
+        "html_checks": true,
+        "json_ld_valid": true,
+        "blog_index": true,
+        "sitemap": true,
+        "image_present": true,
+        "image_content_type": "image/png",
+        "image_dimensions": "1536x1024",
+        "build": "npm run build passed on 2026-08-12.",
+        "local_http": "article/image returned 200 via local server on port 4176.",
+        "render_note": "Chrome headless local screenshots created for desktop 1440x1000 and mobile 390x844; both nonblank with expected dimensions."
+      },
+      "run_result": {
+        "commit_created": true,
+        "push_completed": true,
+        "deployment_checked": true,
+        "result": "Custom-domain deployment verified on second production check after GitHub Actions completed."
+      },
+      "deployment_verification": {
+        "status": "verified",
+        "attempts": 2,
+        "http_200": true,
+        "h1": "Mejores trajes de arras para niño: 10 estilos que conviene probar",
+        "canonical": "https://valentinainfantil.com/blog/mejores-trajes-de-arras-para-nino/",
+        "image_loaded": true,
+        "image_content_type": "image/png",
+        "blog_index": true,
+        "sitemap": true,
+        "checked_at": "2026-08-12T20:25:00+02:00",
         "desktop_render": "Chrome headless public screenshot 1440x1000 created; nonblank and page rendered.",
         "mobile_render": "Chrome headless public screenshot 390x844 created; nonblank and page rendered."
       }
