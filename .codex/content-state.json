@@ -3,7 +3,7 @@
   "company": "Valentina Infantil",
   "market": "Granada, Spain",
   "language": "Español",
-  "last_run": "2026-08-12",
+  "last_run": "2026-08-13",
   "items": [
     {
       "keyword": "mejores tiendas de comunión en Granada",
@@ -820,6 +820,102 @@
         "checked_at": "2026-08-12T20:25:00+02:00",
         "desktop_render": "Chrome headless public screenshot 1440x1000 created; nonblank and page rendered.",
         "mobile_render": "Chrome headless public screenshot 390x844 created; nonblank and page rendered."
+      }
+    },
+    {
+      "keyword": "mejores tiendas de ropa de ceremonia infantil",
+      "priority": "Alta",
+      "slug": "mejores-tiendas-de-ropa-de-ceremonia-infantil",
+      "title": "Mejores tiendas de ropa de ceremonia infantil: 10 opciones para comparar",
+      "status": "published",
+      "selected_at": "2026-08-13",
+      "published_at": "2026-08-13",
+      "verified_at": "2026-08-13",
+      "planned_url": "https://valentinainfantil.com/blog/mejores-tiendas-de-ropa-de-ceremonia-infantil/",
+      "final_url": "https://valentinainfantil.com/blog/mejores-tiendas-de-ropa-de-ceremonia-infantil/",
+      "article_commit_sha": "3e91827f5e99f1a720615fbce887626b02a1cbd0",
+      "final_render_commit_sha": "2034c1a",
+      "canonical": "https://valentinainfantil.com/blog/mejores-tiendas-de-ropa-de-ceremonia-infantil/",
+      "serp_notes": {
+        "query": "mejores tiendas de ropa de ceremonia infantil",
+        "target": "Google ES / Granada y Andalucía, revisado el 2026-08-13",
+        "observations": [
+          "La intención dominante es BOFU/comercial: familias que quieren decidir dónde comprar ropa de ceremonia infantil para comunión, bautizo, arras o invitada.",
+          "Los resultados accesibles mezclan boutiques locales/provinciales, ecommerce especializado, marcas con puntos de venta, gran almacén y directorios de tiendas; predominan páginas visuales con categorías, contacto, filtros o cita.",
+          "Cobertura habitual: comunión niña, comunión niño, arras, bautizo, complementos, marcas, tallas, puntos de venta, envíos y devoluciones.",
+          "Gap editorial: pocas páginas comparan tipos de tienda según prueba, edad, urgencia, arreglos, compra local frente a online y condiciones de cambio; se evitó ranking basado en valoraciones no homogéneas.",
+          "No se añadió vídeo de YouTube porque la decisión depende de prueba, medidas, tacto, condiciones de compra e imagen de referencia, no de un vídeo genérico."
+        ],
+        "sources": [
+          "https://joanabebes.es/",
+          "https://silviagilseleccion.es/",
+          "https://www.dolcecocco.com/",
+          "https://www.coordinanos.com/",
+          "https://www.elcorteingles.es/moda-infantil/comuniones/",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones",
+          "https://administracion.gob.es/pag_Home/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/consumidores/compraventa/devolucion",
+          "https://alhama.com/digital/alhama/empresas-y-economia/16342-loylota-nueva-boutique-infantil-de-alhama-que-viste-a-los-pequenos-con-estilo-y-personalidad"
+        ]
+      },
+      "internal_links": [
+        "https://valentinainfantil.com/categoria-producto/comunion/",
+        "https://valentinainfantil.com/categoria-producto/bautizo/",
+        "https://valentinainfantil.com/categoria-producto/arras/",
+        "https://valentinainfantil.com/blog/guia-de-tallas-infantiles/",
+        "https://valentinainfantil.com/blog/gestionar-cambios-talla-devoluciones-ecommerce-moda-infantil/",
+        "https://valentinainfantil.com/contacto/",
+        "https://valentinainfantil.com/catalogo/"
+      ],
+      "external_links": [
+        "https://joanabebes.es/",
+        "https://www.coordinanos.com/",
+        "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones",
+        "https://administracion.gob.es/pag_Home/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/consumidores/compraventa/devolucion"
+      ],
+      "featured_image": "/assets/blog/mejores-tiendas-ropa-ceremonia-infantil.png",
+      "editorial_review": {
+        "intent_match": "BOFU/comercial; comparativa de 10 tipos de tienda y opciones de compra, no ranking absoluto por reseñas.",
+        "canibalization": "No hay slug duplicado ni intención exacta publicada; se diferencia del post de tiendas de comunión en Granada al cubrir ceremonia infantil transversal: comunión, bautizo, arras, invitada, ecommerce, showroom y arreglos.",
+        "originality": "Estructura y redacción propias basadas en gaps SERP; no copia páginas de tienda, ecommerce ni directorios.",
+        "claims": "Sin precios, reseñas, ratings, expertos, experiencia personal ni claims de stock inventados; condiciones de devoluciones respaldadas por CEC y Punto de Acceso General.",
+        "schema": "ClothingStore, WebSite, WebPage, BreadcrumbList, Article y FAQPage presentes y parseables.",
+        "canonical": "Canonical autorreferencial correcto.",
+        "open_graph": "OG title, description, URL e imagen absoluta presentes.",
+        "image": "Imagen destacada original PNG 1536x1024, sin niños identificables, marcas, precios ni texto incrustado; alt descriptivo.",
+        "accessibility": "H1 único, tabla con encabezados, enlaces contextuales e imagen con alt.",
+        "youtube": "No se añadió vídeo: no aportaba utilidad material a la intención de compra.",
+        "template_text": "Sin lorem ipsum, TODO/FIXME, placeholders ni texto de plantilla detectado."
+      },
+      "local_verification": {
+        "status": "passed",
+        "word_count": 2336,
+        "html_checks": true,
+        "json_ld_valid": true,
+        "blog_index": true,
+        "sitemap": true,
+        "image_present": true,
+        "build": "npm run build passed on 2026-08-13.",
+        "desktop_render": "Chrome headless public screenshot 1440x1000 generated; initial desktop render looked correct.",
+        "mobile_render": "Chrome CLI screenshots used a non-mobile CSS viewport and showed clipping despite public responsive CSS; final HTML serves explicit max-width:1199px single-column article override."
+      },
+      "run_result": {
+        "commit_created": true,
+        "push_completed": true,
+        "deployment_checked": true,
+        "result": "Custom-domain deployment verified after push; responsive CSS fix committed through 2034c1a."
+      },
+      "deployment_verification": {
+        "status": "verified",
+        "attempts": 3,
+        "http_200": true,
+        "h1": "Mejores tiendas de ropa de ceremonia infantil: 10 opciones para comparar",
+        "canonical": "https://valentinainfantil.com/blog/mejores-tiendas-de-ropa-de-ceremonia-infantil/",
+        "image_loaded": true,
+        "image_content_type": "image/png",
+        "blog_index": true,
+        "sitemap": true,
+        "responsive_css": "@media (max-width:1199px) served publicly on final check.",
+        "checked_at": "2026-08-13T18:43:00Z"
       }
     }
   ],
