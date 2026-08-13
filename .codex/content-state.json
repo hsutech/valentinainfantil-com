@@ -822,5 +822,62 @@
         "mobile_render": "Chrome headless public screenshot 390x844 created; nonblank and page rendered."
       }
     }
+  ],
+  "lastUpdated": "2026-08-13",
+  "articles": [
+    {
+      "keyword": "cómo medir el pie infantil y elegir calzado respetuoso para colegio y ceremonia",
+      "priority": "Campaign",
+      "slug": "medir-pie-infantil-calzado-respetuoso",
+      "title": "Cómo medir el pie infantil y elegir calzado respetuoso para colegio y ceremonia",
+      "url": "https://valentinainfantil.com/blog/medir-pie-infantil-calzado-respetuoso/",
+      "language": "es",
+      "market": "Google ES",
+      "status": "prepared",
+      "publicationDate": "2026-08-13",
+      "publishedCommit": null,
+      "serpResearch": {
+        "date": "2026-08-13",
+        "queries": [
+          "Cómo medir el pie infantil y elegir calzado respetuoso para colegio y ceremonia"
+        ],
+        "observations": [
+          "SERP reviewed for intent, competing formats, entities, structure and content gaps.",
+          "Article differentiated for the source domain and its audience."
+        ],
+        "sources": [
+          "https://www.crececontigo.gob.cl/wp-content/uploads/2015bkp20161212/10/Norma-T%25E9cnica-para-la-supervisi%25F3n-de-ni%25F1os-y-ni%25F1as-de-0-a-9-en-APS.pdf",
+          "https://www.footcaremd.org/resources/how-to-help/10-points-of-proper-shoe-fit",
+          "https://www.aeped.es/"
+        ]
+      },
+      "content": {
+        "format": "editorial guide/comparison",
+        "targetWords": "1300-2200",
+        "internalLinks": [
+          "https://valentinainfantil.com/blog/guia-de-tallas-infantiles/",
+          "https://valentinainfantil.com/blog/mejores-zapatillas-barefoot-ninos/",
+          "https://valentinainfantil.com/blog/ropa-infantil-para-diario/",
+          "https://valentinainfantil.com/catalogo/"
+        ],
+        "externalLinks": [
+          "https://barefootopiniones.com/mejor-barefoot-ninos-segun-temporada/",
+          "https://www.crececontigo.gob.cl/wp-content/uploads/2015bkp20161212/10/Norma-T%25E9cnica-para-la-supervisi%25F3n-de-ni%25F1os-y-ni%25F1as-de-0-a-9-en-APS.pdf",
+          "https://www.footcaremd.org/resources/how-to-help/10-points-of-proper-shoe-fit",
+          "https://www.aeped.es/"
+        ],
+        "featuredImage": "/assets/medir-pie-infantil-calzado-respetuoso.webp",
+        "featuredImageAlt": "Adulto midiendo ambos pies de una niña junto a zapatos flexibles y ropa infantil",
+        "youtubeEmbed": null
+      },
+      "qa": {
+        "editorialSecondPass": "pending",
+        "build": "pending",
+        "localVerification": "pending",
+        "liveVerification": "pending",
+        "verifiedAt": null,
+        "verifiedChecks": []
+      }
+    }
   ]
 }
