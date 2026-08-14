@@ -923,7 +923,7 @@
       "priority": "Alta",
       "slug": "mejores-vestidos-de-invitada-adolescente",
       "title": "Mejores vestidos de invitada adolescente: 10 estilos que conviene probar",
-      "status": "draft_ready",
+      "status": "published",
       "selected_at": "2026-08-14",
       "planned_url": "https://valentinainfantil.com/blog/mejores-vestidos-de-invitada-adolescente/",
       "canonical": "https://valentinainfantil.com/blog/mejores-vestidos-de-invitada-adolescente/",
@@ -996,10 +996,28 @@
         "mobile_render": "Chrome headless en macOS forced minimum 500px layout; 500x844 screenshot rendered correctly without visible clipping. 390px capture was discarded as tooling crop."
       },
       "run_result": {
-        "commit_created": false,
-        "push_completed": false,
-        "deployment_checked": false,
-        "result": "Local QA passed; pending commit, push and public verification."
+        "commit_created": true,
+        "push_completed": true,
+        "deployment_checked": true,
+        "result": "Custom-domain deployment verified on second public check after GitHub Actions completed."
+      },
+      "published_at": "2026-08-14",
+      "verified_at": "2026-08-14",
+      "final_url": "https://valentinainfantil.com/blog/mejores-vestidos-de-invitada-adolescente/",
+      "article_commit_sha": "6d977bb",
+      "deployment_verification": {
+        "status": "verified",
+        "attempts": 2,
+        "http_200": true,
+        "h1": "Mejores vestidos de invitada adolescente: 10 estilos que conviene probar",
+        "canonical": "https://valentinainfantil.com/blog/mejores-vestidos-de-invitada-adolescente/",
+        "image_loaded": true,
+        "image_content_type": "image/png",
+        "blog_index": true,
+        "sitemap": true,
+        "checked_at": "2026-08-14T20:34:00+02:00",
+        "desktop_render": "Chrome headless public screenshot 1440x1000 created; nonblank and page rendered.",
+        "mobile_render": "Chrome headless public screenshot 500x844 created; nonblank and responsive layout rendered. 390px capture not used because Chrome forced 500px layout and cropped output."
       }
     }
   ],
