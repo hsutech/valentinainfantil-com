@@ -3,7 +3,7 @@
   "company": "Valentina Infantil",
   "market": "Granada, Spain",
   "language": "Español",
-  "last_run": "2026-08-13",
+  "last_run": "2026-08-14",
   "items": [
     {
       "keyword": "mejores tiendas de comunión en Granada",
@@ -917,9 +917,93 @@
         "responsive_css": "@media (max-width:1199px) served publicly on final check.",
         "checked_at": "2026-08-13T18:43:00Z"
       }
+    },
+    {
+      "keyword": "mejores vestidos de invitada adolescente",
+      "priority": "Alta",
+      "slug": "mejores-vestidos-de-invitada-adolescente",
+      "title": "Mejores vestidos de invitada adolescente: 10 estilos que conviene probar",
+      "status": "draft_ready",
+      "selected_at": "2026-08-14",
+      "planned_url": "https://valentinainfantil.com/blog/mejores-vestidos-de-invitada-adolescente/",
+      "canonical": "https://valentinainfantil.com/blog/mejores-vestidos-de-invitada-adolescente/",
+      "serp_notes": {
+        "query": "mejores vestidos de invitada adolescente",
+        "target": "Google ES / Granada y Andalucía, revisado el 2026-08-14",
+        "observations": [
+          "La intención dominante es BOFU/comercial-informativa: familias que necesitan comprar un vestido o look de invitada adolescente para boda, comunión, bautizo, graduación o evento familiar.",
+          "Los resultados accesibles mezclan editoriales de inspiración, categorías ecommerce, marcas de ceremonia teen y tiendas especialistas; predominan imágenes, filtros, productos y guías de marca.",
+          "Cobertura habitual: edad 12-18, equilibrio entre look infantil y adulto, largos midi/corto/tobillero, satén, organza, flores, dos piezas, colores empolvados, complementos y temporada.",
+          "Gap editorial: pocas páginas convierten la inspiración en criterios prácticos de compra por edad, evento, talla, movimiento, reutilización, tienda presencial frente a ecommerce y condiciones de devolución.",
+          "No se añadió vídeo de YouTube porque la SERP no muestra necesidad clara y la decisión depende más de medidas, prueba, tabla comparativa y condiciones de compra."
+        ],
+        "sources": [
+          "https://www.vogue.es/novias/galerias/looks-vestidos-invitadas-de-boda-adolescentes-style-zara-uterque-mango-gucci",
+          "https://www.ikks.com/es/nina/ropa-joven/moda-de-fiesta/",
+          "https://quemono.com/vestido-ceremonia-adolescente/",
+          "https://amayaforkids.com/celebration-kids/joven/joven-vestidos/",
+          "https://www.vanitatis.elconfidencial.com/estilo/moda/2026-03-25/marcas-espanolas-adolescentes-vestir-bien-boda-gala-looks_4325555/",
+          "https://www.zalando.es/vestidos-ceremonia-nina/",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones",
+          "https://administracion.gob.es/pag_Home/es/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/consumidores/compraventa/devolucion"
+        ]
+      },
+      "internal_links": [
+        "https://valentinainfantil.com/categoria-producto/invitada/",
+        "https://valentinainfantil.com/categoria-producto/adolescente/",
+        "https://valentinainfantil.com/blog/guia-de-tallas-infantiles/",
+        "https://valentinainfantil.com/blog/gestionar-cambios-talla-devoluciones-ecommerce-moda-infantil/",
+        "https://valentinainfantil.com/blog/mejores-vestidos-de-arras-para-nina/",
+        "https://valentinainfantil.com/blog/mejores-trajes-de-arras-para-nino/",
+        "https://valentinainfantil.com/blog/mejores-tiendas-de-ropa-de-ceremonia-infantil/",
+        "https://valentinainfantil.com/contacto/",
+        "https://valentinainfantil.com/catalogo/"
+      ],
+      "external_links": [
+        "https://www.vogue.es/novias/galerias/looks-vestidos-invitadas-de-boda-adolescentes-style-zara-uterque-mango-gucci",
+        "https://amayaforkids.com/celebration-kids/joven/joven-vestidos/",
+        "https://www.vanitatis.elconfidencial.com/estilo/moda/2026-03-25/marcas-espanolas-adolescentes-vestir-bien-boda-gala-looks_4325555/",
+        "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones",
+        "https://administracion.gob.es/pag_Home/es/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/consumidores/compraventa/devolucion"
+      ],
+      "featured_image": "/assets/blog/mejores-vestidos-invitada-adolescente.png",
+      "editorial_review": {
+        "intent_match": "BOFU/comercial-informativa; listicle comparativo por 10 estilos de vestido para invitada adolescente.",
+        "canibalization": "No hay slug duplicado ni intención exacta publicada; se diferencia de arras, comunión, bautizo y tiendas de ceremonia al centrarse en adolescente invitada.",
+        "originality": "Estructura y redacción propias basadas en gaps SERP; no copia editoriales, categorías ecommerce ni guías de marca.",
+        "claims": "Sin precios, reseñas, ratings, expertos, stock ni experiencia personal inventada; condiciones de devoluciones respaldadas por CEC y Punto de Acceso General.",
+        "schema": "ClothingStore, WebSite, WebPage, BreadcrumbList, Article y FAQPage presentes.",
+        "canonical": "Canonical autorreferencial correcto.",
+        "open_graph": "OG title, description, URL e imagen absoluta presentes.",
+        "image": "Imagen destacada original PNG 1536x1024 generada con imagegen, sin personas identificables, marcas, texto ni producto real reclamado como probado.",
+        "accessibility": "H1 único, tabla con encabezados, enlaces contextuales e imagen con alt.",
+        "youtube": "No se añadió vídeo: no aportaba utilidad material a la intención de compra.",
+        "template_text": "Sin lorem ipsum, TODO/FIXME, placeholders ni texto de plantilla intencional."
+      },
+      "local_verification": {
+        "status": "passed",
+        "word_count_visible_page": 2193,
+        "html_checks": true,
+        "json_ld_valid": true,
+        "blog_index": true,
+        "sitemap": true,
+        "image_present": true,
+        "image_content_type": "image/png",
+        "image_dimensions": "1536x1024",
+        "build": "npm ci and npm run build passed on 2026-08-14.",
+        "local_http": "article/image/blog/sitemap returned 200 via local server on port 4184.",
+        "desktop_render": "Chrome headless local screenshot 1440x1000 created; nonblank and page rendered.",
+        "mobile_render": "Chrome headless en macOS forced minimum 500px layout; 500x844 screenshot rendered correctly without visible clipping. 390px capture was discarded as tooling crop."
+      },
+      "run_result": {
+        "commit_created": false,
+        "push_completed": false,
+        "deployment_checked": false,
+        "result": "Local QA passed; pending commit, push and public verification."
+      }
     }
   ],
-  "lastUpdated": "2026-08-13",
+  "lastUpdated": "2026-08-14",
   "articles": [
     {
       "keyword": "cómo medir el pie infantil y elegir calzado respetuoso para colegio y ceremonia",
