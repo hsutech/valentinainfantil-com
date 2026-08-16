@@ -1129,6 +1129,77 @@
         "desktop_render": "Chrome headless public screenshot 1440x1000 created; CSS and featured image loaded.",
         "mobile_render": "Chrome headless public screenshot 500x844 created; responsive header, text and image rendered without visible first-viewport overflow."
       }
+    },
+    {
+      "keyword": "dónde comprar vestidos de comunión en Granada",
+      "priority": "Media",
+      "slug": "donde-comprar-vestidos-de-comunion-en-granada",
+      "title": "Dónde comprar vestidos de comunión en Granada: guía para elegir tienda sin dar vueltas",
+      "status": "draft_prepared",
+      "selected_at": "2026-08-16",
+      "planned_url": "https://valentinainfantil.com/blog/donde-comprar-vestidos-de-comunion-en-granada/",
+      "canonical": "https://valentinainfantil.com/blog/donde-comprar-vestidos-de-comunion-en-granada/",
+      "serp_notes": {
+        "query": "dónde comprar vestidos de comunión en Granada",
+        "target": "Google ES / Granada y Andalucía, revisado el 2026-08-16",
+        "observations": [
+          "La SERP accesible mezcla catálogos locales de comunión, tiendas infantiles de Granada, marcas con puntos de venta, fichas/directorios y guías de compra; la intención es BOFU local.",
+          "Predominan páginas de catálogo, home de tienda o marca y fichas de producto con muchas imágenes, precios o cita, pero poca explicación sobre cómo decidir ruta de compra.",
+          "El gap editorial es una guía de decisión sobre dónde comprar: boutique, tienda infantil, punto de venta de marca, catálogo local, atelier, outlet y online; se evita repetir rankings de vestidos o tiendas ya publicados.",
+          "No se añadió vídeo porque los resultados útiles son catálogos/puntos de venta y fuentes de consumo; un embed no mejora la toma de decisión."
+        ],
+        "sources": [
+          "https://www.impulsomodasgranada.com/collections/comunion-nina",
+          "https://www.coordinanos.com/",
+          "https://dpequesgranada.com/",
+          "https://www.tereruiz.es/",
+          "https://joanabebes.es/",
+          "https://www.elrocio.es/vestidos-comunion-nina/11176-moda-comunion-ninas.html",
+          "https://elescaparatedelpueblo.com/listing/vestido-comunion-2024-7/",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/garantias"
+        ]
+      },
+      "internal_links": [
+        "https://valentinainfantil.com/categoria-producto/comunion/",
+        "https://valentinainfantil.com/blog/guia-de-tallas-infantiles/",
+        "https://valentinainfantil.com/blog/mejores-tiendas-de-comunion-en-granada/",
+        "https://valentinainfantil.com/blog/mejores-vestidos-de-comunion-en-granada/",
+        "https://valentinainfantil.com/contacto/"
+      ],
+      "external_links": [
+        "https://www.impulsomodasgranada.com/collections/comunion-nina",
+        "https://www.coordinanos.com/",
+        "https://dpequesgranada.com/",
+        "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/garantias"
+      ],
+      "featured_image": "/assets/blog/donde-comprar-vestidos-comunion-granada.jpg",
+      "editorial_review": {
+        "intent_match": "BOFU local; guia de rutas de compra y decision para Granada.",
+        "canibalization": "Diferenciado de mejores tiendas (tipo de comercio) y mejores vestidos (estilos): aqui se responde donde comprar y como preparar la ruta.",
+        "originality": "Estructura propia basada en gaps SERP; no copia catalogos ni fichas de tienda.",
+        "claims": "Sin rankings, ratings, precios propios, resenas o experiencia personal inventada; garantias apoyadas en CEC.",
+        "schema": "ClothingStore, WebSite, WebPage, BreadcrumbList, Article y FAQPage presentes.",
+        "canonical": "Canonical autorreferencial correcto.",
+        "open_graph": "OG title, description, URL e imagen absoluta presentes.",
+        "accessibility": "Imagen con alt descriptivo; tabla con encabezados; enlaces contextuales.",
+        "youtube": "No incluido; no aporta prueba ni utilidad material para esta intencion.",
+        "template_text": "Sin lorem ipsum, TODO/FIXME, placeholders ni texto de plantilla detectado; falso positivo por palabras espanolas descartado."
+      },
+      "local_verification": {
+        "status": "passed",
+        "word_count": 2225,
+        "html_checks": true,
+        "json_ld_valid": true,
+        "h1": "Dónde comprar vestidos de comunión en Granada: guía para elegir tienda sin dar vueltas",
+        "canonical": "https://valentinainfantil.com/blog/donde-comprar-vestidos-de-comunion-en-granada/",
+        "blog_index": true,
+        "sitemap": true,
+        "image_present": true,
+        "image_content_type": "image/jpeg",
+        "build": "npm run build passed on 2026-08-16.",
+        "local_http": "Article/image/blog/sitemap returned 200 on localhost:4176.",
+        "responsive_render": "Chrome headless desktop 1440x1000 and mobile 500x844 captured; mobile overflow fixed."
+      }
     }
   ],
   "lastUpdated": "2026-08-14",
