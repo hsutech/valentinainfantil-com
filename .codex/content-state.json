@@ -3,7 +3,7 @@
   "company": "Valentina Infantil",
   "market": "Granada, Spain",
   "language": "Español",
-  "last_run": "2026-08-14",
+  "last_run": "2026-08-16",
   "items": [
     {
       "keyword": "mejores tiendas de comunión en Granada",
@@ -1018,6 +1018,97 @@
         "checked_at": "2026-08-14T20:34:00+02:00",
         "desktop_render": "Chrome headless public screenshot 1440x1000 created; nonblank and page rendered.",
         "mobile_render": "Chrome headless public screenshot 500x844 created; nonblank and responsive layout rendered. 390px capture not used because Chrome forced 500px layout and cropped output."
+      }
+    },
+    {
+      "keyword": "ropa de ceremonia infantil Granada opiniones",
+      "priority": "Alta",
+      "slug": "ropa-de-ceremonia-infantil-granada-opiniones",
+      "title": "Ropa de ceremonia infantil Granada opiniones: cómo leer reseñas y elegir tienda",
+      "status": "draft_ready",
+      "selected_at": "2026-08-16",
+      "planned_url": "https://valentinainfantil.com/blog/ropa-de-ceremonia-infantil-granada-opiniones/",
+      "canonical": "https://valentinainfantil.com/blog/ropa-de-ceremonia-infantil-granada-opiniones/",
+      "serp_notes": {
+        "query": "ropa de ceremonia infantil Granada opiniones",
+        "target": "Google ES / Granada y Andalucía, revisado el 2026-08-16",
+        "observations": [
+          "La SERP mezcla fichas locales, directorios de opiniones, páginas de tiendas de moda infantil y consultas de comunión/ceremonia; intención BOFU local con necesidad de confianza antes de visitar o comprar.",
+          "Los resultados accesibles son mayoritariamente cortos: datos de negocio, reseñas, catálogo o contacto; falta metodología editorial para interpretar opiniones sin inventar rankings.",
+          "El enfoque elegido evita canibalizar el artículo de mejores tiendas de ropa de ceremonia infantil: no enumera tiendas como ranking, sino señales para leer reseñas, validar prueba, arreglos, plazos y políticas.",
+          "Autoría observada: plataformas locales/directorios, tiendas especialistas y fuentes oficiales de consumo; poca tabla comparativa, pocas FAQs y poca explicación sobre diferencias entre tienda física y online.",
+          "No se añadió vídeo de YouTube porque la SERP no muestra una necesidad audiovisual clara para la decisión de compra y podría distraer del método de validación."
+        ],
+        "sources": [
+          "https://bauba.es/valentina-infantil-granada/",
+          "https://www.nicanorapuri.com/",
+          "https://dpeques.es/",
+          "https://www.silviagilseleccion.com/vestidos-de-comunion-en-granada/",
+          "https://www.dolcecocco.com/",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones",
+          "https://administracion.gob.es/pag_Home/es/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/consumidores/compraventa/devolucion",
+          "https://support.google.com/contributionpolicy/answer/7400114?hl=es"
+        ]
+      },
+      "internal_links": [
+        "https://valentinainfantil.com/blog/guia-de-tallas-infantiles/",
+        "https://valentinainfantil.com/categoria-producto/comunion/",
+        "https://valentinainfantil.com/categoria-producto/bautizo/",
+        "https://valentinainfantil.com/categoria-producto/arras/",
+        "https://valentinainfantil.com/categoria-producto/invitada/",
+        "https://valentinainfantil.com/blog/mejores-trajes-de-comunion-para-nino/",
+        "https://valentinainfantil.com/blog/mejores-tiendas-de-comunion-en-granada/",
+        "https://valentinainfantil.com/blog/gestionar-cambios-talla-devoluciones-ecommerce-moda-infantil/",
+        "https://valentinainfantil.com/contacto/",
+        "https://valentinainfantil.com/catalogo/"
+      ],
+      "external_links": [
+        "https://bauba.es/valentina-infantil-granada/",
+        "https://www.nicanorapuri.com/",
+        "https://dpeques.es/",
+        "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones",
+        "https://administracion.gob.es/pag_Home/es/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/consumidores/compraventa/devolucion",
+        "https://support.google.com/contributionpolicy/answer/7400114?hl=es"
+      ],
+      "featured_image": "/assets/blog/ropa-ceremonia-infantil-granada-opiniones.jpg",
+      "image_generation": {
+        "tool": "built-in image_gen",
+        "prompt_summary": "Photorealistic editorial boutique consultation table with ceremony fabrics and child-size garments, no people, no logos, no readable text.",
+        "source_path": "/Users/erikhsu/.codex/generated_images/01a006b3-4d91-7911-a6df-5917c37bd803/call_T8iLjlPLZeV2zSs8B7mONjEK.png"
+      },
+      "editorial_review": {
+        "intent_match": "BOFU local/opiniones; guía para interpretar reseñas y validar compra en tienda, no ranking duplicado de mejores tiendas.",
+        "canibalization": "Se diferencia del post de mejores tiendas de ropa de ceremonia infantil: foco en opiniones, confianza, políticas y método de evaluación.",
+        "originality": "Estructura y redacción propias basadas en gaps SERP; no copia reseñas ni catálogos.",
+        "claims": "Sin reseñas inventadas, ratings, precios, pruebas propias ni promesas de reputación; claims de devolución enlazados a fuentes oficiales.",
+        "schema": "ClothingStore, WebSite, WebPage, BreadcrumbList, Article y FAQPage presentes.",
+        "canonical": "Canonical autorreferencial correcto.",
+        "open_graph": "OG title, description, URL e imagen absoluta presentes.",
+        "image": "Imagen destacada original JPG 1536x1024, sin texto ni personas identificables, con alt descriptivo.",
+        "accessibility": "H1 único, TOC, tabla con encabezados, imagen con alt y enlaces con texto contextual.",
+        "youtube": "No se añadió vídeo porque no aportaba validación material a la intención opiniones/review.",
+        "template_text": "Sin lorem ipsum, TODO/FIXME ni placeholders."
+      },
+      "run_result": {
+        "commit_created": false,
+        "push_completed": false,
+        "deployment_checked": false,
+        "result": "Local QA passed; pending commit, push and public verification."
+      },
+      "local_verification": {
+        "status": "passed",
+        "build": "npm run build passed on 2026-08-16.",
+        "word_count": 2183,
+        "html_checks": true,
+        "json_ld_valid": true,
+        "h1": "Ropa de ceremonia infantil Granada opiniones: cómo leer reseñas y elegir tienda",
+        "canonical": "https://valentinainfantil.com/blog/ropa-de-ceremonia-infantil-granada-opiniones/",
+        "image_present": true,
+        "image_content_type": "image/jpeg",
+        "blog_index": true,
+        "sitemap": true,
+        "local_http_200": true,
+        "render": "Chrome headless local HTTP screenshots created at 1440x1000 and 500x844; CSS and featured image loaded, no obvious first-viewport overflow."
       }
     }
   ],
