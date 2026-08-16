@@ -1025,7 +1025,7 @@
       "priority": "Alta",
       "slug": "ropa-de-ceremonia-infantil-granada-opiniones",
       "title": "Ropa de ceremonia infantil Granada opiniones: cómo leer reseñas y elegir tienda",
-      "status": "draft_ready",
+      "status": "published",
       "selected_at": "2026-08-16",
       "planned_url": "https://valentinainfantil.com/blog/ropa-de-ceremonia-infantil-granada-opiniones/",
       "canonical": "https://valentinainfantil.com/blog/ropa-de-ceremonia-infantil-granada-opiniones/",
@@ -1090,10 +1090,10 @@
         "template_text": "Sin lorem ipsum, TODO/FIXME ni placeholders."
       },
       "run_result": {
-        "commit_created": false,
-        "push_completed": false,
-        "deployment_checked": false,
-        "result": "Local QA passed; pending commit, push and public verification."
+        "commit_created": true,
+        "push_completed": true,
+        "deployment_checked": true,
+        "result": "Custom-domain deployment verified on first public check after GitHub Actions completed."
       },
       "local_verification": {
         "status": "passed",
@@ -1109,6 +1109,25 @@
         "sitemap": true,
         "local_http_200": true,
         "render": "Chrome headless local HTTP screenshots created at 1440x1000 and 500x844; CSS and featured image loaded, no obvious first-viewport overflow."
+      },
+      "published_at": "2026-08-16",
+      "verified_at": "2026-08-16",
+      "final_url": "https://valentinainfantil.com/blog/ropa-de-ceremonia-infantil-granada-opiniones/",
+      "article_commit_sha": "a6432526bcc913cafe8207266cc3954927b25d9e",
+      "deployment_verification": {
+        "status": "verified",
+        "attempts": 1,
+        "workflow": "Deploy to Cloudflare Pages run 31935628424 completed success for a6432526bcc913cafe8207266cc3954927b25d9e.",
+        "http_200": true,
+        "h1": "Ropa de ceremonia infantil Granada opiniones: cómo leer reseñas y elegir tienda",
+        "canonical": "https://valentinainfantil.com/blog/ropa-de-ceremonia-infantil-granada-opiniones/",
+        "image_loaded": true,
+        "image_content_type": "image/jpeg",
+        "blog_index": true,
+        "sitemap": true,
+        "checked_at": "2026-08-16T10:08:00+02:00",
+        "desktop_render": "Chrome headless public screenshot 1440x1000 created; CSS and featured image loaded.",
+        "mobile_render": "Chrome headless public screenshot 500x844 created; responsive header, text and image rendered without visible first-viewport overflow."
       }
     }
   ],
