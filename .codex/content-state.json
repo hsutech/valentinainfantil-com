@@ -1224,9 +1224,112 @@
         "deployment_checked": true,
         "result": "Custom-domain deployment verified on second public check after workflow success."
       }
+    },
+    {
+      "keyword": "vestidos de comunión sencillos vs clásicos",
+      "priority": "Media",
+      "slug": "vestidos-de-comunion-sencillos-vs-clasicos",
+      "title": "Vestidos de comunión sencillos vs clásicos: cuál encaja mejor con tu hija",
+      "status": "published",
+      "selected_at": "2026-08-17",
+      "planned_url": "https://valentinainfantil.com/blog/vestidos-de-comunion-sencillos-vs-clasicos/",
+      "canonical": "https://valentinainfantil.com/blog/vestidos-de-comunion-sencillos-vs-clasicos/",
+      "serp_notes": {
+        "query": "vestidos de comunión sencillos vs clásicos",
+        "target": "Google ES / Granada y Andalucía, revisado el 2026-08-17",
+        "observations": [
+          "La SERP accesible mezcla páginas de marca, catálogos ecommerce y guías de tendencias 2026; la intención es BOFU/comercial-comparativa, con familias decidiendo estética antes de probar o comprar.",
+          "Los resultados relevantes hablan de tradición y modernidad, minimalismo, vestidos clásicos, tejidos ligeros, bordados, plumeti, mangas francesas, tonos suaves y comodidad, pero suelen enseñar colección antes que ayudar a decidir entre estilos.",
+          "Predominan páginas con muchas imágenes, autoría de marca/tienda y extensiones breves o medias; la cobertura práctica de prueba, movimiento, arreglos, presupuesto completo y clima queda menos desarrollada.",
+          "El gap editorial elegido es una comparativa accionable entre vestido sencillo y clásico, diferenciada de los posts ya publicados sobre mejores vestidos, mejores tiendas y dónde comprar en Granada.",
+          "No se añadió vídeo porque la SERP y la intención no justifican un embed útil; las fuentes comparables son catálogos, guías de marca y fuentes de consumo."
+        ],
+        "sources": [
+          "https://shop.mango.com/es/es/discover/tendencias/ninos/combinando-tradicion-y-modernidad-un-repaso-por-los-mejores-vestidos-de-comunion-para-nina_bltc54f58570fba4222",
+          "https://www.elcorteingles.es/contenidos/ninos/vestidos-y-trajes-de-primera-comunion/",
+          "https://michelleymanuela.com/moda-infantil-ceremonia/comuniones/ninas/vestidos-comunion/",
+          "https://www.bimbacollection.com/comunion/",
+          "https://www.trebolmoda.com/vestidos-comunion-nina/",
+          "https://amayaforkids.com/comunion/",
+          "https://portal-cec.consumo.gob.es/informacion-general/temas-de-consumo/garantias",
+          "https://europa.eu/youreurope/citizens/consumers/shopping/guarantees/index_es.htm"
+        ]
+      },
+      "internal_links": [
+        "https://valentinainfantil.com/categoria-producto/comunion/",
+        "https://valentinainfantil.com/blog/mejores-vestidos-de-comunion-en-granada/",
+        "https://valentinainfantil.com/blog/donde-comprar-vestidos-de-comunion-en-granada/",
+        "https://valentinainfantil.com/blog/guia-de-tallas-infantiles/"
+      ],
+      "external_links": [
+        "https://shop.mango.com/es/es/discover/tendencias/ninos/combinando-tradicion-y-modernidad-un-repaso-por-los-mejores-vestidos-de-comunion-para-nina_bltc54f58570fba4222",
+        "https://www.elcorteingles.es/contenidos/ninos/vestidos-y-trajes-de-primera-comunion/",
+        "https://michelleymanuela.com/moda-infantil-ceremonia/comuniones/ninas/vestidos-comunion/",
+        "https://www.bimbacollection.com/comunion/",
+        "https://portal-cec.consumo.gob.es/informacion-general/temas-de-consumo/garantias",
+        "https://europa.eu/youreurope/citizens/consumers/shopping/guarantees/index_es.htm"
+      ],
+      "featured_image": "/assets/blog/vestidos-comunion-sencillos-vs-clasicos.png",
+      "image_generation": {
+        "tool": "imagegen built-in",
+        "source_path": "/Users/erikhsu/.codex/generated_images/01a010f0-3be9-7690-9a16-125b563b850b/call_BCHglxthQZQcoMXjpsoVPTFu.png",
+        "prompt_summary": "Editorial still life comparing simple and classic communion dress styles, no identifiable children, no text or logos."
+      },
+      "editorial_review": {
+        "intent_match": "BOFU/comparativa comercial; ayuda a decidir entre vestido sencillo y clásico antes de probar o comprar.",
+        "canibalization": "Diferenciado de mejores vestidos (estilos locales), mejores tiendas (opciones de compra) y dónde comprar (ruta local): aquí se comparan dos familias estéticas y criterios de prueba.",
+        "originality": "Estructura y redacción propias basadas en gaps SERP; no copia catálogos ni guías de marca.",
+        "claims": "Sin precios, reseñas, rankings, expertos, pruebas personales ni afirmaciones de producto inventadas; garantías y desistimiento apoyados en CEC/Your Europe.",
+        "schema": "ClothingStore, WebSite, WebPage, BreadcrumbList, Article y FAQPage presentes y parseables.",
+        "canonical": "Canonical autorreferencial correcto.",
+        "open_graph": "OG title, description, URL e imagen absoluta presentes.",
+        "accessibility": "H1 único, tabla con encabezados, TOC, imagen con alt descriptivo y enlaces contextuales.",
+        "youtube": "No incluido; no aportaba prueba ni utilidad material para esta intención.",
+        "template_text": "Sin lorem ipsum, TODO/FIXME, placeholders ni texto de plantilla; falso positivo por palabra española 'todo' descartado."
+      },
+      "local_verification": {
+        "status": "passed",
+        "word_count": 2095,
+        "html_checks": true,
+        "json_ld_valid": true,
+        "h1": "Vestidos de comunión sencillos vs clásicos: cuál encaja mejor con tu hija",
+        "canonical": "https://valentinainfantil.com/blog/vestidos-de-comunion-sencillos-vs-clasicos/",
+        "blog_index": true,
+        "sitemap": true,
+        "image_present": true,
+        "image_content_type": "image/png",
+        "build": "npm run build passed on 2026-08-17 after npm ci in clean clone.",
+        "local_http": "Article and image returned 200 on localhost:4177.",
+        "responsive_render": "Chrome headless local desktop 1440x1000 and mobile 500x844 captured; CSS and featured image loaded, no visible first-viewport overflow."
+      },
+      "published_at": "2026-08-17",
+      "verified_at": "2026-08-17",
+      "final_url": "https://valentinainfantil.com/blog/vestidos-de-comunion-sencillos-vs-clasicos/",
+      "article_commit_sha": "5135824d49a6ece29af6b6a81a85d04f21b1e46e",
+      "deployment_verification": {
+        "status": "verified",
+        "attempts": 2,
+        "workflow": "Deploy to Cloudflare Pages run 32054827618 completed success for 5135824d49a6ece29af6b6a81a85d04f21b1e46e.",
+        "http_200": true,
+        "h1": "Vestidos de comunión sencillos vs clásicos: cuál encaja mejor con tu hija",
+        "canonical": "https://valentinainfantil.com/blog/vestidos-de-comunion-sencillos-vs-clasicos/",
+        "image_loaded": true,
+        "image_content_type": "image/png",
+        "blog_index": true,
+        "sitemap": true,
+        "checked_at": "2026-08-17T20:27:00+02:00",
+        "desktop_render": "Chrome headless public screenshot 1440x1000 created; CSS and featured image loaded.",
+        "mobile_render": "Chrome headless public screenshot 500x844 created; responsive header, text and image rendered without visible first-viewport overflow."
+      },
+      "run_result": {
+        "commit_created": true,
+        "push_completed": true,
+        "deployment_checked": true,
+        "result": "Custom-domain deployment verified on second public check after workflow success."
+      }
     }
   ],
-  "lastUpdated": "2026-08-16",
+  "lastUpdated": "2026-08-17",
   "articles": [
     {
       "keyword": "cómo medir el pie infantil y elegir calzado respetuoso para colegio y ceremonia",
