@@ -250,6 +250,65 @@
         "blog_index": true,
         "sitemap": true,
         "checked_at": "2026-07-25T15:18:00Z"
+      },
+      "campaign_refresh": {
+        "title": "Las 10 mejores zapatillas barefoot bonitas para niños: colegio, juegos y ocasiones especiales",
+        "date": "2026-11-12",
+        "status": "published",
+        "commit": "768d6909b25bdc02b44634a9bcb959590e2e8423",
+        "url": "https://valentinainfantil.com/blog/mejores-zapatillas-barefoot-ninos/",
+        "checked_at": "2026-11-12T10:01:08+00:00",
+        "deployment_checks": 1,
+        "deployment_result": "Cloudflare Pages success (GitHub Actions run 43196384710). Verified on custom domain: HTTP 200, H1, canonical, OG, WebP, schema, zero article links, listing, sitemap and Chrome at 1440/390 px.",
+        "featured_image": "/assets/blog/zapatillas-barefoot-infantiles-ilustracion.webp",
+        "ranking": [
+          "Lejan One Kids Weekdays White",
+          "Zapato Feroz Moraira Rocker Escolar",
+          "Be Lenka Canvi Kids Light Brown",
+          "Saguaro Smart I infantil",
+          "Reima Astelu",
+          "Be Lenka Scoot Kids All White",
+          "Biomecanics Barefoot 251020-E050",
+          "MTNG Free Play Verde",
+          "Be Lenka Luppo Junior Blue & Aqua",
+          "MTNG Free Lights Plata"
+        ],
+        "sources": {
+          "serp_es": [
+            "https://barefootopiniones.com/mejores-deportivas-barefoot-ninos/",
+            "https://www.hola.com/seleccion/20260910922648/mejores-zapatillas-barefoot-ninios/",
+            "https://barefootkids.es/un-calzado-para-cada-ocasion/colegiales-respetuosos/"
+          ],
+          "official_products": [
+            "https://lejanbrand.com/collections/lejan-one-kids",
+            "https://lejanbrand.com/products/lejan-one-kids-weekdays-white",
+            "https://lejanbrand.com/en-gb/products/lejan-one-kids-weekdays-white",
+            "https://zapatoferoz.es/products/moraira-rocker-escolar",
+            "https://www.belenka.es/zapatos-barefoot-para-ninos/",
+            "https://es.saguaro.com/products/ninos-smart-1",
+            "https://www.reima.com/en/products/shoes-astelu",
+            "https://www.biomecanics.com/spain/es/barefoot/colegiales-barefoot/",
+            "https://www.mtngshoes.com/es-es/collections/zapatos-barefoot-free-ninos"
+          ],
+          "retail_availability": [
+            "https://lalloca.eu/brand/lejan/",
+            "https://vellcros.com/calzado-respetuoso-ninos/zapatillas-respetuosas/deportiva-lejan-one-weekdays-white-lejancitos",
+            "https://ceibes.com/producto/lejan-one-week-days-white/"
+          ],
+          "fitting": [
+            "https://www.nhs.uk/baby/health/leg-and-foot-problems-in-children/",
+            "https://www.westlondon.nhs.uk/our-services/hounslow-community-healthcare/childrens-services/childrens-podiatry-service"
+          ]
+        },
+        "factual_review": "Especificaciones de Lejan de fichas infantiles oficiales. La ficha directa española redirigió a password o devolvió HTTP 429; el catálogo oficial mostraba el modelo y comercios españoles mostraban variantes a la venta. Sin precios ni afirmaciones de stock por talla.",
+        "editorial_review": "1766 palabras en español de España. Comparación por uso y ajuste. Ilustración editorial generada, sin marcas ni alegaciones de prueba. Cero enlaces en main.",
+        "seo_review": "Actualización de la URL de 2026-07-25. La guía de medición existente tiene una intención distinta. H1, canonical, Open Graph, Article, BreadcrumbList y FAQPage comprobados; blog y sitemap actualizados.",
+        "tests": [
+          "npm run build",
+          "git diff --check",
+          "Validación HTML, JSON-LD, WebP y XML",
+          "Chrome a 1440 y 390 px sin desbordamiento"
+        ]
       }
     },
     {
